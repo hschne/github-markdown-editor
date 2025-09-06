@@ -1,24 +1,5 @@
-# README
+# GitHub Markdown Editor from Scratch
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository contains a demo Rails application that implements a basic GitHub-like markdown editor as seen on the [Appsignal Blog](https://blog.appsignal.com/).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![preview](preview.png)
