@@ -64,6 +64,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "commonmarker", "~> 2.3"
+gem "commonmarker", "~> 2.4"
 
 gem "requestjs-rails", "~> 0.0.13"
